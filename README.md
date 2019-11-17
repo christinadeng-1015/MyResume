@@ -4,6 +4,7 @@
 
 ## Preview
 [MyResume](https://christinadeng-1015.github.io/MyResume/)
+* https://christinadeng-1015.github.io/MyResume/
 
 
 ## Status
